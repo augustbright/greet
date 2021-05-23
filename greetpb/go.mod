@@ -1,4 +1,4 @@
-module greetpb
+module github.com/augustbright/greet/greetpb
 
 go 1.16
 
